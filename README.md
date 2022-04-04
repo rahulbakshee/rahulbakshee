@@ -4,7 +4,7 @@
 
 🏭 Currently working on Information Retrieval, User Ranking, Segmentation, Personalization, Customer Behavioral Analysis, Churn Analysis, Rare Event Detection & Class Imbalance.
 
-🔥 Expert in Machine Learning, Deep Learning, Computer Vision, Neural Networks, Image Processing, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Classification, Regression, Clustering, Bagging, Boosting, Object Detection, Semantic Segmentation.
+🔥 Expert in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Neural Networks, Image Processing, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Natural Language Processing, LSTM/GRU, Classification, Regression, Clustering, Bagging, Boosting, Object Detection, Semantic Segmentation.
 
 🤓 Heavily involved in all phases of Machine Learning Software Development and Delivery namely Business Intelligence, Business Understanding, Stakeholder Management, Data Structures and Algorithms, Data Gathering, Data Loading, Exploratory Data Analysis, Dimensionality Reduction, Visualization, Data Preprocessing, Feature Engineering, Feature Selection, Modeling, Model Selection, Cross Validation, Metrics, Loss, Optimization, Hyperparameter Tuning, Stacking, Ensemble, Deployment.
 
