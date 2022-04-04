@@ -10,7 +10,7 @@
 
 🔨 Tools I use frequently are Python, Pandas, SQL, Numpy, Scipy, Matplotlib, Seaborn, Scikit-Learn / sklearn, Optuna, OpenCV, TensorFlow, Keras, PyTorch.
 
-📫 How to reach me: 
+📫 Say Hello at : 
 [blog](https://rahulbakshee.github.io/iWriteHere/) , 
 [linkedin](https://www.linkedin.com/in/rahulbakshee/) , 
 [twitter](https://twitter.com/rahulbakshee) , 
