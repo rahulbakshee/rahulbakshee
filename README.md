@@ -8,7 +8,7 @@
 
 🤓 Heavily involved in all phases of Machine Learning Software Development and Delivery namely Business Intelligence, Business Understanding, Stakeholder Management, Data Structures and Algorithms, Data Gathering, Data Loading, Exploratory Data Analysis, Dimensionality Reduction, Visualization, Data Preprocessing, Feature Engineering, Feature Selection, Modeling, Model Selection, Cross Validation, Metrics, Loss, Optimization, Hyperparameter Tuning, Stacking, Ensemble, Deployment.
 
-🔨 Tools I use frequently are Python, Pandas, SQL, Numpy, Scipy, Matplotlib, Seaborn, Scikit-Learn / sklearn, Optuna, OpenCV, TensorFlow, Keras, PyTorch.
+🔨 Tools I use frequently are Python, Pandas, SQL, Numpy, Scipy, Matplotlib, Seaborn, Scikit-Learn / sklearn, Optuna, OpenCV, TensorFlow, Keras, PyTorch, Spark/PySpark etc.
 
 📫 Say Hello at : 
 [blog](https://rahulbakshee.github.io/iWriteHere/) , 
