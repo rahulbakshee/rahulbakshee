@@ -12,8 +12,8 @@
 
 🥇 Certifications I recently did are:
 - [TensorFlow Developer Certificate | Google Developers ](https://www.credential.net/3804a043-b11d-42a0-adc6-80c34aadb592)
-- []()
-- []()
+- [Deep Learning Specialization | DeepLearning.AI ](https://rahulbakshee.github.io/iWriteHere/2021/12/31/Deep-Learning-Specialization.html)
+- [Google Cloud Essentials | Google Cloud ](https://www.cloudskillsboost.google/public_profiles/2f9a816f-2ea9-4674-8a5d-9c5748dba843)
 
 📫 Say Hello at : 
 [blog](https://rahulbakshee.github.io/iWriteHere/) , 
