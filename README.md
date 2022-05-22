@@ -10,6 +10,11 @@
 
 🔨 Tools I use frequently are Python, Pandas, SQL, Numpy, Scipy, Matplotlib, Seaborn, Scikit-Learn / sklearn, Optuna, OpenCV, TensorFlow, Keras, PyTorch, Spark/PySpark etc.
 
+🥇 Certifications I recently did are:
+- [TensorFlow Developer Certificate | Google Developers ](https://www.credential.net/3804a043-b11d-42a0-adc6-80c34aadb592)
+- []()
+- []()
+
 📫 Say Hello at : 
 [blog](https://rahulbakshee.github.io/iWriteHere/) , 
 [linkedin](https://www.linkedin.com/in/rahulbakshee/) , 
