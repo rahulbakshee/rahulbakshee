@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋👋👋
 
 🔭 A lifelong learner, passionate about creating insights & products using data. 🚀 In my 11+ years of professional journey, I have worked on real world business problems across domains (Manufacturing, Retail, Sales & Services, Consulting, Telecom, Pharma etc.) in variety of roles from Engineering to Data Science.
 
