@@ -38,7 +38,7 @@ Authorized to work for any US employer (No sponsorship required), Can Join Immed
 <img src="tf-dl-specialization.PNG" style="width:600px;height:400;">
 
 - [Google Cloud Essentials | Google Cloud ](https://www.cloudskillsboost.google/public_profiles/2f9a816f-2ea9-4674-8a5d-9c5748dba843)
-<img src="https://www.cloudskillsboost.google/public_profiles/2f9a816f-2ea9-4674-8a5d-9c5748dba843/badges/881223">
+<img src="google cloud.png" style="width:600px;height:400;">
 
 
 
