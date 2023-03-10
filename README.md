@@ -13,9 +13,13 @@ Authorized to work for any US employer (No sponsorship required), Can Join Immed
 🔭 Excellent team player, strong believer in collaboration, diversity and inclusion.
 
 🛠 Python, R, SQL, Hive, Scala, C/C++, Java, HTML, CSS, Bash, Shell, Linux
+
 🛠 Git, VS Code, PyCharm, Jupyter Notebooks, HDFS, Google Colab, Kaggle, Dataiku, Databricks, FastAPI, Flask, Streamlit, Gradio
+
 🛠 NumPy, SciPy, Pandas, Spacy, Gensim, HuggingFace, Scikit-Learn/sklearn, Spark, MLlib, OpenCV, Keras, TensorFlow, PyTorch, JAX
+
 🛠 Matplotlib, Seaborn, PIL, Plotly, Geopandas, PowerBI, Adobe Analytics, Tableau, Looker, TensorBoard, LIME, SHAP,
+
 🛠 Google Cloud, GCP Vertex AI, BigQuery, AWS SageMaker, Lambda, Kubernetes, Docker, Kubeflow, Airflow, Beam, Dataflow, MLOps 
 
 
