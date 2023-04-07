@@ -4,7 +4,7 @@ Authorized to work for any US employer (No sponsorship required), Can Join Immed
 
 🚀 Google Certified TensorFlow Developer, having over 12 years of experience in leading and executing data-driven solutions applying Statistical Machine Learning, modern Deep Learning, Computer Vision, Natural Language Processing (NLP) across domains (Manufacturing, Retail, Sales & Marketing, Telecom, Pharmaceutical) in variety of roles from Consulting and Engineering to Data Science.
 
-🤓 Led a team of 10+ Data Analysts, mentored them through Machine Learning Life Cycle of Data Preparation, Exploratory Analysis, Model Training, Testing, Deployment. Product Management & Roadmap Planning for omnichannel recommendation system leading to 2.5% lift in Prescription writing scores. Product Owner responsible for scaling the product to 5+ brands, 10+ channels impacting 70K+ HealthCare Professionals. 
+🤓 Led a team of junior Data Analysts, mentored them through Machine Learning Life Cycle of Data Preparation, Exploratory Analysis, Model Training, Testing, Deployment. Product Management & Roadmap Planning for omnichannel recommendation system leading to 2.5% lift in Prescription writing scores. Product Owner responsible for scaling the product to 5+ brands, 10+ channels impacting 70K+ HealthCare Professionals. 
 
 🔥 Expert in Artificial Intelligence, Artificial Neural Networks, Image Processing, Convolutional Neural Networks(CNN), Recurrent Neural Networks(RNN), Sequence Modeling, LSTM/GRU, Classification, Regression, Clustering, Bagging, Boosting, Object Detection, Semantic Segmentation, Information Retrieval, User Ranking, Personalization, Customer Behavioral Analysis, Churn Analysis, Anamoly Detection, Rare Event Detection & Class Imbalance.
 
