@@ -1,27 +1,12 @@
-### Hi there 👋👋👋
+### Hello World 👋👋👋
 
-Authorized to work for any US employer (No sponsorship required), Can Join Immediately 
+🦾 As an Associate Director of Data Science, I bring over a decade of experience in leading data science initiatives, driving innovation, and delivering actionable insights across diverse industries. My expertise spans advanced analytics, Machine Learning, NLP, and Statistical modeling. I have successfully overseen portfolios for major clients in Healthcare & Life Sciences, Telecom, Retail and Manufacturing, implementing scalable AI-driven solutions that have significantly enhanced Customer Engagement, Omnichannel Orchestration, Personalization, and Revenue growth. My technical leadership and strategic planning have consistently resulted in measurable improvements, such as a 30% boost in customer satisfaction and $18 million in total growth.
 
-🚀 Google Certified TensorFlow Developer, having over 12 years of experience in leading and executing data-driven solutions applying Statistical Machine Learning, modern Deep Learning, Computer Vision, Natural Language Processing (NLP) across domains (Manufacturing, Retail, Sales & Marketing, Telecom, Pharmaceutical) in variety of roles from Consulting and Engineering to Data Science.
+🚀 In my current customer-facing role at Axtria, I led a team of high-performing data scientists and machine learning engineers, optimizing resources and performance management. I have a strong track record in architecting and deploying machine learning pipelines and models, leveraging tools such as Python, SQL, XGBoost, TensorFlow, and AWS. I have driven significant advancements in Likelihood Prediction, Fraud Detection, Regression, Classification, Clustering, Customer Churn, Natural Language Processing (NLP), Recommendation Systems, Generative AI and Large Language Model (LLM) based applications. My ability to manage complex projects and collaborate with cross-functional teams has been pivotal in generating substantial revenue and enhancing operational efficiency.
 
-🤓 Led a team of junior Data Analysts, mentored them through Machine Learning Life Cycle of Data Preparation, Exploratory Analysis, Model Training, Testing, Deployment. Product Management & Roadmap Planning for omnichannel recommendation system leading to 2.5% lift in Prescription writing scores. Product Owner responsible for scaling the product to 5+ brands, 10+ channels impacting 70K+ HealthCare Professionals. 
+🔭 Looking forward, I aim to transition into senior role where I can further leverage my skills in stakeholder management, algorithm development, and large-scale data analysis. With a robust foundation in machine learning infrastructure, cloud computing, and software engineering best practices, I am well-equipped to tackle complex challenges involving Big Data and Distributed Computing, and deliver innovative solutions that drive business success. My certifications in Google Cloud and TensorFlow, along with a solid background in Deep Learning and AI, position me as a valuable asset for any forward-thinking organization.
 
-🔥 Expert in Artificial Intelligence, Artificial Neural Networks, Image Processing, Convolutional Neural Networks(CNN), Recurrent Neural Networks(RNN), Sequence Modeling, LSTM/GRU, Classification, Regression, Clustering, Bagging, Boosting, Object Detection, Semantic Segmentation, Information Retrieval, User Ranking, Personalization, Customer Behavioral Analysis, Churn Analysis, Anamoly Detection, Rare Event Detection & Class Imbalance.
-
-🤓 Heavily involved in all phases of ML Development and Delivery, Business Intelligence(BI), Stakeholder Management, Data Structures and Algorithms, Data Loading, Dimensionality Reduction, Visualization, Preprocessing, Feature Engineering, Feature Selection, Model Selection, Cross Validation, Metrics, Loss, Optimization, Hyperparameter Tuning, Stacking, Ensemble, Prototyping, Prediction, Recommender Systems, Dimensionality Reduction, Distributed Computing, Regularization, Explainable AI, Software Development Life Cycle (SDLC), Agile, Scrum, Kanban.
-
-🔭 Excellent team player, strong believer in collaboration, diversity and inclusion.
-
-🛠 Python, R, SQL, Hive, Scala, C/C++, Java, HTML, CSS, Bash, Shell, Linux
-
-🛠 Git, VS Code, PyCharm, Jupyter Notebooks, HDFS, Google Colab, Kaggle, Dataiku, Databricks, FastAPI, Flask, Streamlit, Gradio
-
-🛠 NumPy, SciPy, Pandas, Spacy, Gensim, HuggingFace, Scikit-Learn/sklearn, Spark, MLlib, OpenCV, Keras, TensorFlow, PyTorch, JAX
-
-🛠 Matplotlib, Seaborn, PIL, Plotly, Geopandas, PowerBI, Adobe Analytics, Tableau, Looker, TensorBoard, LIME, SHAP,
-
-🛠 Google Cloud, GCP Vertex AI, BigQuery, AWS SageMaker, Lambda, Kubernetes, Docker, Kubeflow, Airflow, Beam, Dataflow, MLOps 
-
+✌️ Strong believer in Collaboration, Responsible AI, Diversity and Inclusion.
 
 📫 Say Hello at : 
 [blog](https://rahulbakshee.github.io/iWriteHere/) , 
