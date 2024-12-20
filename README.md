@@ -2,11 +2,11 @@
 🦾 Experienced Senior Machine Learning Engineer with a strong background in designing, developing, deploying, and optimizing large-scale ML solutions. Skilled in Deep Learning, Natural Language Processing, and advanced model architectures, driving impactful innovations in AI. Proven track record in collaborating cross-functionally to deliver measurable results, accelerate model deployment, and enhance business intelligence, achieving substantial revenue growth. Adept in Python, TensorFlow, PyTorch, and cloud-based MLOps, with a commitment to advancing data-driven decision-making.
 
 🚀  
-- Prototyped Generative AI based applications using foundation models OpenAI, Gemini, Llama, GPT, Azure AI, LangChain and RAG, boosting customer engagement by 70%.
-- Boosted patient adherence rates by 21% for 80,000 patients through advanced predictive modeling.
-- Delivered $16M revenue growth through effective development and deployment of scalable AI/ML models.
-- Achieved 42% improvement in customer engagement with an omnichannel recommender system.
-- Served as the primary point of contact for 3 clients, planned and directed GTM strategies, reported to VP and SVP.
+- **70%** boost in customer engagement using Gen AI based apps using OpenAI GPT, Google Gemini, Meta Llama, Azure AI, LangChain and RAG.
+- **21%** enhancements in patient adherence rates for **32,000** patients through advanced predictive modeling.
+- Delivered **$16M** revenue growth through effective development and deployment of scalable AI/ML models.
+- Achieved **42%** improvement in customer engagement with an omnichannel recommender system.
+- Served as the primary point of contact for 3 clients, planned and directed **GTM strategies**, reported to VP and SVP.
 
 🛠 Core skills 
 - AI/ML: Machine Learning, Deep Learning, Natural Language Processing (NLP), Recommender System, Distributed Computing, Optimization, Performance Tuning, Convolutional Neural Networks, CNN, Recurrent Neural Network, RNN, Transformers, Attention, LSTM, Classification, Regression, Clustering, Retrieval & Ranking
