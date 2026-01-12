@@ -1,27 +1,11 @@
 ### Hello World 👋👋👋
-🦾 Experienced Senior Machine Learning Engineer with a strong background in designing, developing, deploying, and optimizing large-scale ML solutions. Skilled in Deep Learning, Natural Language Processing, and advanced model architectures, driving impactful innovations in AI. Proven track record in collaborating cross-functionally to deliver measurable results, accelerate model deployment, and enhance business intelligence, achieving substantial revenue growth. Adept in Python, TensorFlow, PyTorch, and cloud-based MLOps, with a commitment to advancing data-driven decision-making.
+🦾 Google Cloud Certified Professional Machine Learning Engineer with 13+ years of experience building production ML, DL and GenAI systems that drive revenue, reduce cost, and improve user engagement at scale.
 
-🚀  
-- **70%** boost in customer engagement using Gen AI based apps using OpenAI GPT, Google Gemini, Meta Llama, Azure AI, LangChain and RAG.
-- **21%** enhancements in patient adherence rates for **32,000** patients through advanced predictive modeling.
-- Delivered **$16M** revenue growth through effective development and deployment of scalable AI/ML models.
-- Achieved **42%** improvement in customer engagement with an omnichannel recommender system.
-- Served as the primary point of contact for 3 clients, planned and directed **GTM strategies**, reported to VP and SVP.
+🔥 Led AI platforms that delivered over $16M in annual revenue impact, 70%+ lifts in customer engagement, $5M+ in yearly cost savings, and protected multimillion‑dollar revenue through patient adherence, churn reduction, and fraud prevention initiatives.
 
-🛠 Core skills 
-- AI/ML: Machine Learning, Deep Learning, Natural Language Processing (NLP), Recommender System, Distributed Computing, Optimization, Performance Tuning, Convolutional Neural Networks, CNN, Recurrent Neural Network, RNN, Transformers, Attention, LSTM, Classification, Regression, Clustering, Retrieval & Ranking
-- Scripting/Programming Languages: Python, SQL, R, Java, Scala, C/C++, Linux, Bash
-- Tools & Frameworks: TensorFlow, PyTorch, Keras, Scikit-Learn, XGBoost, Random Forest, Naïve Bayes, SVM, Linear/Logistic Regression, Dask, NumPy, Pandas, TensorFlow Serving, MLflow, Kubernetes, Docker, Airflow, Databricks, TensorBoard, NLTK, spaCy, OpenCV, YOLO, Matplotlib, Seaborn, AutoML, SHAP, LIME
-- Cloud: Amazon Web Services, AWS SageMaker, Google Cloud Platform, GCP, Vertex AI, Azure ML, Linear Algebra
-- Big Data: Apache Spark, PySpark, Hadoop, Hive, HDFS, Kafka, Flink, BigQuery, Redshift, Tableau, PowerBI
-- MLOps & Experimentation: CI/CD Pipelines (Jenkins, GitOps), Experiment Tracking (MLflow, Weights & Biases), Feature Store(Feast, Tecton), Data Engineering, GPU, TPU, CUDA, Data Pipelines, Cross-Validation, Explainable AI
-- Gen AI/Generative AI: LLM, RAG, Open AI, LangChain, Gemini, Llama, Mistral, Hugging Face, Word Embedding
-- Software Engineering, Data Structures and Algorithms, Code Review, Documentation, Probability, Statistics
-- Soft Skills: Technical Leadership, Project Management, Mentorship, Cross-functional Collaboration
+🚀 Specializes in hybrid retrieval pipelines, ranking, re‑ranking, and end‑to‑end RAG pipelines and Agentic AI systems, recommendation systems, combining TensorFlow, PyTorch, and traditional ML with strong MLOps across GCP Vertex AI, AWS SageMaker, and Azure ML to support 50M+ daily events with sub‑second latency.
 
-🔥 In my recent roles, I technically led teams of high-performing data scientists and machine learning engineers, optimizing resources and performance management. I have a strong track record in architecting and deploying machine learning pipelines and models, leveraging tools such as Python, SQL, XGBoost, TensorFlow, and AWS. I have driven significant advancements in Likelihood Prediction, Fraud Detection, Regression, Classification, Clustering, Customer Churn, Natural Language Processing (NLP), Recommendation Systems, Generative AI and Large Language Model (LLM) based applications. My ability to manage complex projects and collaborate with cross-functional teams has been pivotal in generating substantial revenue and enhancing operational efficiency.
-
-🔭 Looking forward, I aim to transition into senior role where I can further leverage my skills in stakeholder management, algorithm development, and large-scale data analysis. With a robust foundation in machine learning infrastructure, cloud computing, and software engineering best practices, I am well-equipped to tackle complex challenges involving Big Data and Distributed Computing, and deliver innovative solutions that drive business success. My certifications in Google Cloud and TensorFlow, along with a solid background in Deep Learning and AI, position me as a valuable asset for any forward-thinking organization.
+🛠 Operates at staff level by owning ML roadmaps, defining metrics & experimentation frameworks, and setting engineering standards for production models, while mentoring teams and partnering with VP/SVP‑level leaders to turn ambiguous business problems into scalable, reliable AI platforms.
 
 ✌️ Strong believer in Collaboration, Responsible AI, Diversity and Inclusion.
 
