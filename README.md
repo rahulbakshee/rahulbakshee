@@ -33,6 +33,8 @@
 
 
 🥇 Certifications I recently did are:
+[Google Cloud Professional Machine Learning Engineer](https://www.linkedin.com/posts/rahulbakshee_machinelearning-ml-ai-activity-7345268047143686144-EFEL)
+<img src="gcp-pmle.jpg" style="width:600px;height:400;">
 
 - [Google Cloud Digital Leader | Google Cloud ](https://www.linkedin.com/feed/update/urn:li:activity:7092018468090245121/)
 <img src="gcp.jpg" style="width:600px;height:400;">
